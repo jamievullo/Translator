@@ -1,1 +1,9 @@
-New readme coming soon
+## Ultra Fun Translator Application
+
+# Classic Translator application using React, Hooks, API calls, HTML, and CSS
+
+<!-- <img src="ExpenseTracker.png"> -->
+
+Translator Application that uses google translate API for language recognition and translation.
+
+## Jamie Vullo - Full-Stack Software Engineer - www.jamievullo.com
