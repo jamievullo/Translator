@@ -2,7 +2,7 @@
 
 # Classic Translator application using React, Hooks, API calls, HTML, and CSS
 
-<!-- <img src="ExpenseTracker.png"> -->
+<!-- need image for working translator -->
 
 Translator Application that uses google translate API for language recognition and translation.
 
